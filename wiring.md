@@ -1,0 +1,12 @@
+encoder:
+  gnd -> gnd
+  + -> 5v
+  SW -> 2
+  DL -> 4
+  CLK -> 3
+
+rbg led:
+  - -> gnd
+  r -> 6
+  g -> 5
+  b -> 9
